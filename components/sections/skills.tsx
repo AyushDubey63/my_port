@@ -97,7 +97,7 @@ const skillCategories = [
             viewBox="0 0 49 56"
             fill="none"
           >
-            <g clip-path="url(#clip0_4688_32471)">
+            <g clipPath="url(#clip0_4688_32471)">
               <path
                 fillRule="evenodd"
                 clipRule="evenodd"

@@ -9,7 +9,7 @@ import ScrollIndicator from "@/components/scroll-indicator";
 
 export default function Home() {
   return (
-    <main className="flex max-w-[100dvw] min-h-screen flex-col items-center">
+    <main className="flex min-h-screen flex-col items-center overflow-auto">
       <ScrollIndicator />
       <Hero />
       <About />

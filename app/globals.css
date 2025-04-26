@@ -112,6 +112,6 @@
 .animate-spin-slow-reverse {
   animation: spin-slow-reverse 15s linear infinite;
 }
-body {
+/* body {
   overflow-x: hidden;
-}
+} */
